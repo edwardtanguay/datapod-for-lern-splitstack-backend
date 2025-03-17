@@ -11,7 +11,7 @@ This is the backend of a splitstack React/Node/Express/lowdb-json application.
 ## setup
 
 -   `npm i`
--   `npm run dev` - _starts both backend and frontend_
+-   `npm run dev` 
 
 ## ports
 
